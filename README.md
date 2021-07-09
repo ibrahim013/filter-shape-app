@@ -4,9 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Technology Used
 
-React
-Styled Component
-Jest
+-React
+
+-Styled Component
+
+-Jest
 
 
 
