@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "shape": "oval",
+      "color": [
+        "red",
+        "blue",
+        "green",
+        "yellow",
+        "gray"
+      ]
+    },
+    {
+      "shape": "round",
+      "color": [
+        "red",
+        "blue",
+        "green",
+        "yellow",
+        "gray"
+      ]
+    },
+    {
+      "shape": "triangle",
+      "color": [
+        "red",
+        "blue",
+        "green",
+        "yellow",
+        "gray"
+      ]
+    },
+    {
+      "shape": "rectangle",
+      "color": [
+        "red",
+        "blue",
+        "green",
+        "yellow",
+        "gray"
+      ]
+    },
+    {
+      "shape": "square",
+      "color": [
+        "red",
+        "blue",
+        "green",
+        "yellow",
+        "gray"
+      ]
+    }
+  ]
+}
